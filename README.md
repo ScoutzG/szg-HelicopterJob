@@ -11,3 +11,6 @@ Go into server/server.lua and adjust the payment price there on (LINE 5) local p
 
 client Line 151: ``` QBCore.Functions.Progressbar("knock", "Delivering package", 7000, false, false, {``` Config Time takes to knock the door.
 server Line 5: ``` local payment = 3000``` Config Payment Per delivery.
+
+I did not WRITE THIS! I Only made edits and changes to the ORIGINAL SCRIPT to work as a helicopter job. 
+Based off a Pizza Delivery Job that inspired me to Revamp into this. 
